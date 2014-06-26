@@ -1,4 +1,4 @@
-testwww
-=======
+ionic-contrib-firebase-login
+============================
 
-testwww
+Using Firebase's angularFire and simple login with Ionic
